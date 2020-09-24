@@ -100,22 +100,22 @@
                             <div id="mainNav" class="collapse navbar-collapse tm-bg-white">
                                 <ul class="navbar-nav ml-auto">
                                   <li class="nav-item">
-                                    <a class="nav-link" href="#top">Home <span class="sr-only">(current)</span></a>
+                                    <a class="nav-link" href="index_new.html#top">Home <span class="sr-only">(current)</span></a>
                                   </li>
                                   <li class="nav-item">
-                                    <a class="nav-link" href="#tm-section-3">Fitur kami</a>
+                                    <a class="nav-link" href="index_new.html#tm-section-3">Fitur kami</a>
                                   </li>
                                   <li class="nav-item">
-                                    <a class="nav-link" href="#tm-section-4">Artikel mengenai Bergota</a>
+                                    <a class="nav-link" href="index_new.html#tm-section-4">Artikel mengenai Bergota</a>
                                   </li>
 								  <li class="nav-item">
-                                    <a class="nav-link" href="#tm-section-5">Statistika kawasan Bergota</a>
+                                    <a class="nav-link" href="index_new.html#tm-section-5">Statistika kawasan Bergota</a>
                                   </li>
                                   <li class="nav-item">
-                                    <a class="nav-link" href="#tm-section-6">Tilik Makam</a>
+                                    <a class="nav-link" href="index_new.html#tm-section-6">Tilik Makam</a>
                                   </li>
 								  <li class="nav-item">
-                                    <a class="nav-link" href="#tm-section-8">Juru Kunci</a>
+                                    <a class="nav-link" href="index_new.html#tm-section-8">Juru Kunci</a>
                                   </li>
 								  <li class="nav-item">
                                     <a class="nav-link" href="#">Login</a>
